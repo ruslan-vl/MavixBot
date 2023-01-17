@@ -1,7 +1,6 @@
 from os import environ
 
-#token = environ["TOKEN"]
-token = "MTA1NDU2ODAxNTQ5NDEzOTkxNA.GSTLhN.45hGyzOpbLPoPlzm4DrCKMzec2RHfs1c9lsKX4"
+token = environ["TOKEN"]
 
 
 dev_id = 740590351466889217
